@@ -1,4 +1,4 @@
-import { AiOutlineArrowUp, AiOutlineAlignRight } from "react-icons/ai"
+import { AiOutlineAlignRight } from "react-icons/ai"
 import { FaWhatsapp } from "react-icons/fa6"
 const NavBar = ()=>{
                  return(
