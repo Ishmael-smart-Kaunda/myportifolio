@@ -10,10 +10,10 @@ const Home =()=>{
                         <>
                           <NavBar/>
                           <Hero/>
-                          <Projects/>
-                          <WorkStructure/>
-                         { /*<CTA/> */}
+                         {/* <Projects/> */}
                           <Profile/>
+                          <WorkStructure/>                        
+                          <CTA/>  
                           <Footer/>
                         </>
                 )
